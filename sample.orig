@@ -2,6 +2,7 @@ file one modified
 second line modified
 third line merged
 <<<<<<< HEAD
-
+fourth line devloped 
+=======
 dev1 started resoving issues 
 >>>>>>> release1.0
